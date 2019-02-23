@@ -1,4 +1,3 @@
-import PathKit
 
 class IncludeNode: NodeType {
   let templateName: Variable
